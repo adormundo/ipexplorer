@@ -28,7 +28,7 @@ The project is structured as follows:
    - Clone the repository:
      ```sh
      git clone https://github.com/adormundo/ipexplorer.git
-     cd your-repository
+     cd ipexplorer
      ```
 
 3. **Running the Server**:
